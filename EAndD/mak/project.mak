@@ -1,0 +1,6 @@
+#DEBUG = 1
+#TEST = 1
+HEXTXT = 1
+HELP = 1
+PROCESS_FILE = 1
+
